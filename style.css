@@ -55,6 +55,10 @@ a{
     padding: 13px;
     background-image: url(banner.png);
 }
+.banner .summary{
+    margin:15px;
+    border:2px dashed purple;
+}
 .banner h5{
     border: 2px solid white;
     width: auto;
