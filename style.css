@@ -73,9 +73,10 @@ a{
 .about p{
     font-size: 25px;
     margin-left: 27px;
+    display:inline-block;
 }
 .about p img{
-    display: flex;
+    display: inline-block;
 }
 
 /* language setup */
