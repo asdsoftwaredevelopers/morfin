@@ -73,9 +73,11 @@ a{
 .about p{
     font-size: 25px;
     margin-left: 27px;
-    display:inline-block;
+    display:inline;
 }
 .about p img{
+    width:auto;
+    height:auto;
     display: inline-block;
 }
 
