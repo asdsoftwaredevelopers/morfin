@@ -143,7 +143,7 @@ a{
     background: rgb(85, 0, 165);
 }
 /* Footer Setup */
-footer h2{
+.quicklinks h2{
     margin-bottom: 4px;
     text-decoration: underline white;
 }
