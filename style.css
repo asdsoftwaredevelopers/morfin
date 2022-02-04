@@ -141,7 +141,7 @@ a{
 .html button:hover, .css button:hover, .javascript button:hover{
     color: white;
     background: rgb(85, 0, 165);
-
+}
 /* Footer Setup */
 footer h2{
     margin-bottom: 4px;
