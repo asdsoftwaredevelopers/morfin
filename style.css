@@ -48,7 +48,7 @@ a{
     background-attachment: fixed;
     background-repeat: no-repeat;
     width: auto;
-    height: 500px;
+    height: auto;
     margin: 25px 0 25px;
     border-color: rgb(132, 0, 255);
     padding: 13px;
